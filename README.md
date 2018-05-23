@@ -11,3 +11,4 @@ Incomplete:
 - En passant. (once again)
 - No use of Firebase, etc. This was meant to be a standalone chess game.
 - No piece movement animation.
+- No Check/Checkate. (once again)
