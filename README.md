@@ -1,6 +1,6 @@
 # Chess-Java
 
-A remake of ChessJs for reasons stated there.
+A remake of ChessJs for reasons stated <a href="https://github.com/jackHedaya/ChessJs/blob/master/README.md">there</a>.
 
 Completed:
 - All pieces are functional.
